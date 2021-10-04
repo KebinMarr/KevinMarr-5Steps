@@ -1,0 +1,14 @@
+.spottree{height:400px;display:block; margin-left:auto;margin-right:auto;}
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+h1,h2,h3,h4,h5{font-family: 'Fira Sans', sans-serif;}
+body {
+ background-image: url(images/dirtbackground.png);
+}
+h1{text-align:center;color:ivory;font-size:50pt}
+h2{text-align:center;color:ivory;font-size:35pt}
+h3{text-align:center;color:limegreen;font-size:14pt}
+h4{text-align:center;color:limegreen;font-size:14pt}
+h5{text-align:center;color:limegreen;font-size:14pt}
+a:hover {
+  text-decoration: underline;
+}
